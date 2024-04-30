@@ -1,0 +1,24 @@
+.centrediv{
+    height: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.link-anchor{
+
+    padding: 10px ;
+    background-color: #f5f6fa;
+    border-radius: 50px;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 1px 4px 2px 2px #dcdde1;
+    transition: all 0.3s linear;
+}
+
+.link-anchor:hover{
+    transform: scale(1.4);
+
+}
